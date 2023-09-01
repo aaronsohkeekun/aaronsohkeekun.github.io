@@ -3,9 +3,9 @@
 
 ## DataCamp 
 <details>
-  <summary>Courses Completed in Power BI</summary>
+  <summary>Courses Completed in Excel Spreadsheets</summary>
 
-- Introduction to Power BI <kbd>[Link](https://www.datacamp.com/statement-of-accomplishment/course/404c6527c5f7ce65898ee1d90f5012537883effd)</kbd>
+- Analyzing Data in Spreadsheets <kbd>[Link](https://www.datacamp.com/statement-of-accomplishment/course/3ab782b74d87203b196de0cdd92b067e6428f0ae)</kbd>
 - Introduction to Power BI <kbd>[Link](https://www.datacamp.com/statement-of-accomplishment/course/404c6527c5f7ce65898ee1d90f5012537883effd)</kbd>
 - Introduction to Power BI <kbd>[Link](https://www.datacamp.com/statement-of-accomplishment/course/404c6527c5f7ce65898ee1d90f5012537883effd)</kbd>
 
